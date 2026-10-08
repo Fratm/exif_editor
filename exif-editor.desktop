@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=EXIF Editor
+GenericName=Photo Metadata Editor
+Comment=View and edit EXIF metadata in image files
+Exec=exif-editor %f
+Icon=image-x-generic
+Terminal=false
+Categories=Graphics;Photography;Qt;
+MimeType=image/jpeg;image/tiff;image/png;image/webp;image/heif;image/avif;image/x-canon-cr2;image/x-nikon-nef;image/x-sony-arw;image/x-adobe-dng;image/x-fuji-raf;image/x-olympus-orf;image/x-panasonic-rw2;

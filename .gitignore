@@ -1,0 +1,44 @@
+# Compile cruft
+# Vim swap files
+*.swp
+*.swo
+
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+a.out
+
+# Libraries
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Build directories
+build/
+cmake-build-*/
+bin/
+obj/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# Vim
+*.swp
+*.swo
+*~
