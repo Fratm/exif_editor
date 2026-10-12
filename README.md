@@ -2,6 +2,10 @@
 
 A small Qt 6 / Exiv2 desktop app for viewing and editing EXIF, IPTC and XMP metadata, including AI provenance markers.
 
+## Written with Claude.ai
+I did not write this code at all, I did review it, but this was 100% written by
+claude ai.  Therefore the code is public domain.
+
 ## Features
 - Open JPEG, TIFF, PNG, WebP, HEIC/AVIF and most RAW formats (via Exiv2); drag & drop or `exif-editor photo.jpg`
 - Table of every EXIF tag: key, name, type, raw value (editable) and interpreted value
